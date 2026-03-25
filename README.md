@@ -5,7 +5,6 @@ JPEG XL decode proof-of-concept using the libjxl C API.
 ## Dependencies
 
 - libjxl (dev headers): `sudo apt install libjxl-dev`
-- C++17 compiler
 
 ## Build
 
