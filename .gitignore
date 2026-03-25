@@ -1,0 +1,6 @@
+# compiled binary
+jxl_poc
+
+# test artifacts
+*.jxl
+*.ppm
